@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<style type="text/css">
+.comic {
+	font-family: Comic Sans MS, cursive;
+}
+.comic {
+	font-family: "Comic Sans MS", cursive;
+	text-align: center;
+	color: #00F;
+	font-stretch: extra-condensed;
+	white-space: inherit;
+	appearance: pop-up-menu;
+	box-sizing: content-box;
+	nav-down: auto;
+	scrollbar-shadow-color: #FFF;
+	animation-timing-function: ease-in;
+
+
+
+
+	scrollbar-face-color: #FFF;
+	perspective-origin: bottom;
+}
+.text {
+	color: #00F;
+}
+body,td,th {
+	font-family: "Comic Sans MS", cursive;
+	color: #009;
+}
+body {
+	background-color: #FFF;
+	background-image: url(../../Unnamed%20Site%202/a371.jpg);
+	color: #999;
+	font-style: normal;
+}
+</style>
+</head>
+
+<html>
+<body bgcolor="#E1E1E1" background="">
+
+	<form tag="Create Logon">
+		<div align="center">
+			<span class="comic">Username</span> :
+<p><input type="username" name="username" /></p>
+			<span class="comic">Password : </span>
+			<p class="comic">
+		    <input type="password" name="pwd" />
+		    <br />
+			</P>
+			<span class="comic">			Surname : </span>
+			<P class="comic">
+		    <input type="surname" name="surname" />
+		    <br />
+			</P>
+			<span class="comic">			Other Names : </span>
+			<P class="comic">
+		    <input type="other names" name="names" />
+		    <br />
+			</P>
+			<span class="comic">			Date of Birth : </span>
+			<P class="comic">
+		    <input type="date of birth" name="dob" />
+		    <br />
+			</P>
+			<span class="comic">			Email : </span>
+			<P class="comic">
+		    <input type="email" name="email" />
+		    <br />
+			</P>
+			<span class="comic">			Telephone: </span>
+			<P class="comic">
+		    <input type="telephone" name="tel" />
+		    <br />
+			</P>
+			<span class="comic">			Address : </spanadsdw>
+			<P class="comic">
+		    <input type="address" name="add" />
+		    <br />s
+			</P>
+			<span class="comic">			Post Code: </span>
+		  <P><input type="postcode" name="ptc" /><br /></P>
+          
+
+		<input type="submit" value="Submit" />
+	  </div>
+	</form>
+
+<div align="center">
+  <p class="text">Note: Please make sure your details are correct before submitting form and that all fields marked with * are completed!.</p>
+</div>
+
+
+</body>
+</html>
